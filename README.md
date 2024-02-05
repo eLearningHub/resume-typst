@@ -11,3 +11,7 @@ If you are subscribed to ChatGPT Plus, you can use this GPT: [Resume.Typst](http
 
 - [bare-bones-cv: A minimalistic CV comprising essentials only](https://github.com/caffeinatedgaze/bare-bones-cv)
 - [Typst-CV-Resume](https://github.com/jxpeng98/Typst-CV-Resume)
+- [typst-cv-template1](https://github.com/vaibhavjhawar/typst-cv-template1)
+- [attractive-typst-resume](https://github.com/Harkunwar/attractive-typst-resume)
+- [typst-mixed-resume](https://github.com/titaneric/typst-mixed-resume)
+- [alta-typst](https://github.com/GeorgeHoneywood/alta-typst)
