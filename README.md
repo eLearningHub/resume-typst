@@ -10,3 +10,4 @@ If you are subscribed to ChatGPT Plus, you can use this GPT: [Resume.Typst](http
 ## References
 
 - [bare-bones-cv: A minimalistic CV comprising essentials only](https://github.com/caffeinatedgaze/bare-bones-cv)
+- [Typst-CV-Resume](https://github.com/jxpeng98/Typst-CV-Resume)
