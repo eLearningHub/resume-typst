@@ -59,8 +59,7 @@
             eval(settings.font.size.education_description),
             font: settings.font.minor_highlight,
           )
-          #place.degree #place.major \
-          #place.track track
+          #place.degree #place.major
         ]
     ]
   }
@@ -148,10 +147,6 @@
           size: eval(settings.font.size.tags),
           font: settings.font.minor_highlight
         )
-        #{
-          let tag_line = job.tags.join(" • ")
-          tag_line
-        }
       ]
     ]
   }
