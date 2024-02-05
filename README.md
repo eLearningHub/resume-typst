@@ -15,3 +15,7 @@ If you are subscribed to ChatGPT Plus, you can use this GPT: [Resume.Typst](http
 - [attractive-typst-resume](https://github.com/Harkunwar/attractive-typst-resume)
 - [typst-mixed-resume](https://github.com/titaneric/typst-mixed-resume)
 - [alta-typst](https://github.com/GeorgeHoneywood/alta-typst)
+- [typst-neat-cv](https://github.com/UntimelyCreation/typst-neat-cv)
+- [typst-twentysecondcv](https://github.com/tomowang/typst-twentysecondcv)
+- [vercanard](https://github.com/elegaanz/vercanard)
+- [awesome-typst](https://github.com/qjcg/awesome-typst)
