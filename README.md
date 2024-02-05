@@ -1,5 +1,5 @@
 # resume-typst
-Create your resume in Typst with the readability of Markdown and features of LaTeX. To create a PDF version of your resume, go to https://typst.app/ and create three files: 
+Create your resume in Typst with the readability of Markdown and features of LaTeX. To create a PDF version of your resume, go to https://typst.app/ and create a new project with these three files: 
 
 1. portfolio.yaml
 2. settings.yaml 
