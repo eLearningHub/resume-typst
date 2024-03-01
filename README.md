@@ -19,3 +19,4 @@ If you are subscribed to ChatGPT Plus, you can use this GPT: [Resume.Typst](http
 - [typst-twentysecondcv](https://github.com/tomowang/typst-twentysecondcv)
 - [vercanard](https://github.com/elegaanz/vercanard)
 - [awesome-typst](https://github.com/qjcg/awesome-typst)
+- [cv.typ](https://github.com/jskherman/cv.typ)
